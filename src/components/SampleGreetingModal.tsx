@@ -42,7 +42,7 @@ const SampleGreetingModal = ({ isOpen, onClose }: SampleGreetingModalProps) => {
           {/* Message */}
           <div className="mb-6">
             <p className="text-lg text-foreground leading-relaxed">
-              Dear Priya, as we step into 2026, may this year bring you closer to your dreams of becoming a software engineer. 
+              Dear Priy, as we step into 2026, may this year bring you closer to your dreams of becoming a software engineer. 
               Your dedication to learning and passion for technology will surely lead you to great heights. 
               May every line of code you write bring you success, and may every challenge become an opportunity to grow!
             </p>
